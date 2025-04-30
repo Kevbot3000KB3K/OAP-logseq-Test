@@ -2,3 +2,4 @@
 	- born from literal darkness, they are empty husks of armor shaped reminiscent to legendary warriors of past who dared to mingle with the abyssal powers.
 	- they have no weaknesses except for the power of light magic.
 	- Brawler Melee build, but can teleport to wherever level is in shadow.
+	- the Dark Knight is capable of dealing massive damage with proper positioning.
