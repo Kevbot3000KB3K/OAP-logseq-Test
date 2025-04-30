@@ -1,5 +1,1 @@
-- Description
-	- Born from literal darkness, they are empty husks of armor shaped reminiscent to legendary warriors of past who dared to mingle with the abyssal powers.
-	- They have no weaknesses except for the power of light magic.
-	- Melee build but can teleport to wherever level is in shadow.
-	- They are actually visually blind and use mana sensing to detect targets
+Description - Born from literal darkness, they are empty husks of armor shaped reminiscent to legendary warriors of past who dared to mingle with the abyssal powers. - They have no weaknesses except for the power of light magic. - Brawler Melee build, but can teleport to wherever level is in shadow. - They are actually visually blind and use mana sensing to detect targets - The Dark Knight is capable of dealing massive damage with proper positioning.
