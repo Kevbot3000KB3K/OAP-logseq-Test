@@ -1,2 +1,3 @@
-- Warden is a soft creature that can harden at response of pain. //change this line
+- Warden is a soft creature that can harden at response of pain.
+- he is not a softie.
 - i am gonna edit this page. and i want you to edit this page as well so we override it.
