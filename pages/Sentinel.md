@@ -1,0 +1,8 @@
+- Description
+	- The Sentinel is an Anchor Tank.
+	- Can be utilized by the Clawfolk race.
+	- Carries the fantasy of an ancient oath keeper and loyal body guard.
+	- Associated with the Ghost [[Affinity]]
+- Equipment
+	- Greataxes
+	- Heavy Armor

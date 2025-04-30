@@ -1,0 +1,14 @@
+- Affinities are elemental properties that can carry different effects in battle.
+- The Twelve Elemental Affinities are
+	- Holy
+	- Dark
+	- Earth
+	- Wind
+	- Fire
+	- Water
+	- Ice
+	- Ghost
+	- Wood
+	- Arcane
+	- Primal
+	- Lightning
