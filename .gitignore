@@ -1,0 +1,4 @@
+# VS Code settings if you're using it
+.vscode/
+/logseq/bak
+/logseq/cache

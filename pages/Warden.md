@@ -1,0 +1,1 @@
+- warden is a soft creature that can harden at response of pain.
